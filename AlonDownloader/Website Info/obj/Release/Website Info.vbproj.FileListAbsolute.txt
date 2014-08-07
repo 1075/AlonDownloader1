@@ -1,0 +1,9 @@
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\bin\Release\Website Info.exe
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\bin\Release\Website Info.pdb
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\bin\Release\Website Info.xml
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\obj\Release\Website Info.vbproj.GenerateResource.Cache
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\obj\Release\Website Info.exe
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\obj\Release\Website Info.xml
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\obj\Release\Website Info.pdb
+C:\Users\Dovy\Downloads\Website_Info\Website Info\Website Info\obj\Release\WindowsApplication1.Form1.resources
